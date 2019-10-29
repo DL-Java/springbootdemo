@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="duanlian">
+    <output-path>F:/</output-path>
+    <root id="archive" name="duanlian.war" />
+  </artifact>
+</component>
